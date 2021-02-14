@@ -1,2 +1,2 @@
 # Notebooks
-Miscellaneous Jupyter Notebook resources
+Miscellaneous Jupyter Notebook resources for Financial Algotithms.
